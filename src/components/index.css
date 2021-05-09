@@ -25,6 +25,9 @@ div {
     height: 100px;
     width: 100px;
     font-size: large;
+    background-color: antiquewhite;
+    border-radius: 25px;
+    box-shadow: 3px 3px 2px red;
 }
 
 .addButton {
@@ -34,6 +37,9 @@ div {
     height: 100px;
     width: 100px;
     font-size: large;
+    background-color: antiquewhite;
+    border-radius: 25px;
+    box-shadow: 3px 3px 2px blue;
 }
 
 .counter {
