@@ -2,7 +2,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: bisque;
+    background-color: lightseagreen;
 }
 
 div {
@@ -26,7 +26,7 @@ div {
     height: 100px;
     width: 100px;
     font-size: large;
-    background-color: antiquewhite;
+    background-color: lightsalmon;
     border-radius: 25px;
     box-shadow: 3px 3px 2px red;
 }
@@ -38,7 +38,7 @@ div {
     height: 100px;
     width: 100px;
     font-size: large;
-    background-color: antiquewhite;
+    background-color: lightskyblue;
     border-radius: 25px;
     box-shadow: 3px 3px 2px blue;
 }
